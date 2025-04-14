@@ -1,4 +1,4 @@
-# Medical Appointment Booking Platform
+# StayHealthy (Medical Appointment Booking Platform)
 
 This is a responsive web application that allows users to register, log in, find doctors by specialty, book medical appointments, and leave reviews after consultations.
 
